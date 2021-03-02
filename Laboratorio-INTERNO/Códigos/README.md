@@ -1,4 +1,3 @@
-## CODES
+## Códigos
 
-En esta carpeta podrán encontrar códigos de Python, C, Matlab, etc, que sean
-proporcionados por los profesores.
+En esta carpeta podrán encontrar códigos de Python, C, Fortran, etc, que sean necesarios para el laboratorio INTERNO.
